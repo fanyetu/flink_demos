@@ -1,4 +1,4 @@
-package cn.fanyetu.flink_demos;
+package cn.fanyetu.flink_demos.shizhan01;
 
 import org.apache.flink.streaming.api.functions.source.SourceFunction;
 import org.slf4j.Logger;
